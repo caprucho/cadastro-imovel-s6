@@ -1,0 +1,4 @@
+interface:
+  display_name: "Cadastro de Imóveis S6"
+  short_description: "Cadastre imóveis no Tecimob com o padrão da S6"
+  default_prompt: "Use $cadastro-imovel-s6 para cadastrar este imóvel no Tecimob seguindo os padrões da S6 Imóveis."
